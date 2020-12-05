@@ -1,25 +1,25 @@
 {
-  "name": "DC",
-  "logoURI": "https://dc-offices.github.io/dc-coin/DC_logo_r_512.png",
-  "keywords": [
-      "DC",
-      "DC coin",
-      "blind box"
+    "name": "DC",
+    "logoURI": "https://dc-offices.github.io/dc-coin/DC_logo_r_512.png",
+    "keywords": [
+        "DC",
+        "DC coin",
+        "blind box"
     ],
     "timestamp": "2020-11-29T18:01:00.305Z",
     "tokens": [
-      {
-      "chainId": 1,
-      "address": "0xFB287658d7453fA1Ce3E7acC743DA610844a8bf7",
-      "name": "DC",
-      "symbol": "DC",
-      "decimals": 18,
-      "logoURI": "https://dc-offices.github.io/dc-coin/DC_logo_r_512.png"
-      }
+        {
+            "chainId": 1,
+            "address": "0xFB287658d7453fA1Ce3E7acC743DA610844a8bf7",
+            "name": "DC",
+            "symbol": "DC",
+            "decimals": 18,
+            "logoURI": "https://dc-offices.github.io/dc-coin/DC_logo_r_512.png"
+        }
     ],
     "version": {
-      "major": 1,
-      "minor": 0,
-      "patch": 0
+        "major": 1,
+        "minor": 0,
+        "patch": 0
     }
 }
