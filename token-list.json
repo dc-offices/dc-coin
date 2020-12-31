@@ -1,6 +1,6 @@
 {
     "name": "DC",
-    "logoURI": "https://dc-offices.github.io/dc-coin/DC_logo_r_512.png",
+    "logoURI": "https://coin.dc-ex.org/DC_logo_r_512.png",
     "keywords": [
         "DC",
         "DC coin",
@@ -14,7 +14,7 @@
             "name": "DC",
             "symbol": "DC",
             "decimals": 18,
-            "logoURI": "https://dc-offices.github.io/dc-coin/DC_logo_r_512.png"
+            "logoURI": "https://coin.dc-ex.org/DC_logo_r_512.png"
         }
     ],
     "version": {
